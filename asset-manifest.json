@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/DineOut-React-/static/css/main.7108605f.css",
+    "main.js": "/DineOut-React-/static/js/main.3fbe9a74.js",
+    "static/media/1.jpg": "/DineOut-React-/static/media/1.6deccb861b6840cdc50e.jpg",
+    "static/media/chef.jpg": "/DineOut-React-/static/media/chef.326420be49ebe568f443.jpg",
+    "static/media/6.jpg": "/DineOut-React-/static/media/6.24fb9abc6088640b1a89.jpg",
+    "static/media/4.webp": "/DineOut-React-/static/media/4.ec944aca530c6fe2b33b.webp",
+    "static/media/us.jpg": "/DineOut-React-/static/media/us.a2e22f98743951ba7da3.jpg",
+    "static/media/mandi.jpg": "/DineOut-React-/static/media/mandi.4ac20987e09eab5962e4.jpg",
+    "static/media/fish biriyani.jpg": "/DineOut-React-/static/media/fish biriyani.14b4f0558bc4bcb877e6.jpg",
+    "static/media/oreo.jpg": "/DineOut-React-/static/media/oreo.6a609c2aebc5727e4489.jpg",
+    "static/media/pola.jpg": "/DineOut-React-/static/media/pola.25f60003b1ad54ff7eaf.jpg",
+    "static/media/pizza.jpg": "/DineOut-React-/static/media/pizza.ba91e06df0ce6f174e1c.jpg",
+    "static/media/5.jpg": "/DineOut-React-/static/media/5.80e91e057a0eca74ce6c.jpg",
+    "static/media/chococake.jpg": "/DineOut-React-/static/media/chococake.3a9255cc30368666ad75.jpg",
+    "static/media/rolls.jpg": "/DineOut-React-/static/media/rolls.1e2bbdd7c4127545506b.jpg",
+    "static/media/redvelvet.jpg": "/DineOut-React-/static/media/redvelvet.5fd4fa76f28c71de74f8.jpg",
+    "static/media/chicken fry.jpg": "/DineOut-React-/static/media/chicken fry.a93beb336a02e3196fed.jpg",
+    "static/media/buo bun.jpg": "/DineOut-React-/static/media/buo bun.66ef4d223fcab45df672.jpg",
+    "static/media/honey alfam.jpg": "/DineOut-React-/static/media/honey alfam.6a5663be0ee0536cc8ef.jpg",
+    "static/media/vanilla cake.jpg": "/DineOut-React-/static/media/vanilla cake.83780625942cc490bef2.jpg",
+    "static/media/2.jpg": "/DineOut-React-/static/media/2.4552cb1ed28f362574a4.jpg",
+    "static/media/logo.jpg": "/DineOut-React-/static/media/logo.ecba988429d9e870d119.jpg",
+    "static/media/3.webp": "/DineOut-React-/static/media/3.afbb35775347c3a68561.webp",
+    "index.html": "/DineOut-React-/index.html",
+    "main.7108605f.css.map": "/DineOut-React-/static/css/main.7108605f.css.map",
+    "main.3fbe9a74.js.map": "/DineOut-React-/static/js/main.3fbe9a74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7108605f.css",
+    "static/js/main.3fbe9a74.js"
+  ]
+}
