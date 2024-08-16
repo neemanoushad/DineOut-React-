@@ -18,7 +18,7 @@ function RouteLayout() {
     <Navbar/>
     <Routes>
         <Route path='/' element={<Home/>}/>
-        <Route path='/React' element={<Home/>}/>
+        <Route path='/DineOut-React-' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/Service' element={<Service/>}/>
         <Route path='/items' element={<FoodItems/>}/>
